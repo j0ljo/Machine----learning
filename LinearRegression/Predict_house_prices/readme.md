@@ -18,7 +18,7 @@ Predicting house prices based on square footage using pure Python and gradient d
 ##  Output
 
 
-[
+![
 ](files/Figure_1.png)
 ---
 
